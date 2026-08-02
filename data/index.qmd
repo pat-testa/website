@@ -1,0 +1,24 @@
+---
+title: "Resources"
+---
+
+## Data
+
+::: {.entry}
+"New Area- and Population-based Geographic Crosswalks for U.S. Counties and Congressional
+Districts, 1790-2020" (with [Andreas Ferrara](http://andreas-ferrara.com/) and
+[Liyang Zhou](https://www.econ.pitt.edu/people/liyang-zhou)).
+
+- County-to-county and county-to-CD crosswalks, 1790-2020: [DOI](https://doi.org/10.3886/E150101).
+- Teaching material for geographic crosswalks: [DOI](https://doi.org/10.3886/E150101).
+:::
+
+## Replication
+
+For raw data and code, see my [research](../research/) page.
+
+## Other
+
+Economics career and internship
+[resource](https://liberalarts.tulane.edu/departments/economics/academics/undergraduate/internship-career-opportunities)
+(designed for Tulane undergraduates).

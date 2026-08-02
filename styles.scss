@@ -1,0 +1,137 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$body-color: #24292e;
+$link-color: #0b5394;
+$navbar-bg: #ffffff;
+$navbar-fg: #24292e;
+$body-bg: #ffffff;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.65;
+}
+
+.navbar {
+  border-bottom: 1px solid #e6e6e6;
+  font-size: 0.95rem;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+main {
+  max-width: 900px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+h1.title {
+  font-size: 1.9rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Section headings on research/teaching/resources pages */
+h2 {
+  font-size: 1.25rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Home page header ---- */
+
+.home-header {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.home-header .home-photo,
+.home-header figure {
+  width: 240px;
+  flex: 0 0 240px;
+  margin: 0;
+}
+
+.home-header img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.home-body {
+  flex: 1 1 340px;
+  min-width: 0;
+}
+
+.home-body h1 {
+  font-size: 2rem;
+  margin: 0 0 0.3rem 0;
+}
+
+.home-body .subtitle {
+  font-size: 1.05rem;
+  color: #555;
+  margin: 0 0 1.5rem 0;
+}
+
+.home-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- Publication / course entries ---- */
+
+.entry {
+  margin-bottom: 1.7rem;
+}
+
+.entry p {
+  margin-bottom: 0.2rem;
+}
+
+.entry p:last-child {
+  margin-bottom: 0;
+}
+
+.entry .links,
+.entry .summary {
+  font-size: 0.92rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+.entry .summary {
+  font-style: italic;
+}
+
+/* Footer */
+
+.nav-footer {
+  border-top: 1px solid #e6e6e6;
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 3rem;
+}
+
+@media (max-width: 600px) {
+  .home-header img {
+    width: 160px;
+  }
+}

@@ -1,0 +1,37 @@
+---
+pagetitle: "Patrick A. Testa"
+page-layout: full
+---
+
+::: {.home-header}
+![](images/headshot-web.jpg){fig-alt="Patrick A. Testa" .home-photo}
+
+::: {.home-body}
+# Patrick A. Testa
+
+<p class="subtitle">Associate Professor of Economics<br>Tulane University</p>
+
+Welcome! I am an Associate Professor (with tenure) in the
+[Department of Economics](https://liberalarts.tulane.edu/economics) and the
+[Center for Public Policy Research](https://murphy.tulane.edu/programs/cppr) in the
+[Murphy Institute](https://murphy.tulane.edu/) at [Tulane University](https://tulane.edu/),
+as well as a Faculty Research Fellow at the
+[National Bureau of Economic Research](https://www.nber.org/programs-projects/programs-working-groups/development-american-economy?page=1&perPage=50)
+(NBER).
+
+I am interested in how factors such as demography, identity, and beliefs shape economic
+and political outcomes. My recent work focuses on (i) the effects of elections on social
+and political coordination and (ii) the effects of migration on culture and politics, both
+in theoretical perspective and in the context of United States economic history.
+
+My work has been published in leading academic journals, such as the
+[Quarterly Journal of Economics](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520),
+the [Review of Economic Studies](https://www.restud.com/the-confederate-diaspora/), and the
+[Economic Journal](https://academic.oup.com/ej/article/131/637/2233/6021415).
+
+My research has been funded through generous grants made by the
+[National Science Foundation](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2446921)
+and the
+[Russell Sage Foundation](https://www.russellsage.org/research/grants/geography-race-and-ethnicity-united-states-uncovering-hidden-history-expulsion-and).
+:::
+:::

@@ -1,0 +1,10 @@
+---
+title: "Contact"
+---
+
+Patrick A. Testa\
+Department of Economics\
+205 Tilton Memorial Hall\
+New Orleans, LA 70118
+
+[ptesta@tulane.edu](mailto:ptesta@tulane.edu)

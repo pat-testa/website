@@ -1,0 +1,67 @@
+---
+title: "Teaching"
+---
+
+## Teaching statement
+
+[Download](../files/teaching-statement.pdf).
+
+## Lead instructor
+
+::: {.entry}
+Economic History of the U.S. (Undergraduate), Tulane University
+
+[Download: [Syllabus](../files/syllabus-economic-history-us.pdf).]{.links}
+:::
+
+::: {.entry}
+Game Theory (Undergraduate, Master's level), Tulane University
+
+[Download: [Syllabus](../files/syllabus-game-theory.pdf).]{.links}
+:::
+
+::: {.entry}
+Mathematical Economics (Undergraduate, Master's level), Tulane University
+
+[Download: [Syllabus](../files/syllabus-mathematical-economics.pdf).]{.links}
+:::
+
+::: {.entry}
+Microeconomic Theory I (Ph.D. level), Tulane University
+
+[Download: [Syllabus](../files/syllabus-micro-theory-i.pdf).]{.links}
+:::
+
+::: {.entry}
+Positive Political Economy (Undergraduate), Tulane University
+
+[Download: [Syllabus](../files/syllabus-positive-political-economy.pdf).]{.links}
+:::
+
+::: {.entry}
+Political Economy of Nondemocracy (Undergraduate), Tulane University
+
+[Download: [Syllabus](../files/syllabus-political-economy-nondemocracy.pdf).]{.links}
+:::
+
+::: {.entry}
+Political Economy in Historical Perspective (Undergraduate), Tulane University
+
+[Download: [Syllabus](../files/syllabus-political-economy-historical.pdf).]{.links}
+:::
+
+## Teaching assistant
+
+- Microeconomic Theory I: General Equilibrium (Ph.D. level), UC Irvine
+- Microeconomic Theory II: Game Theory (Ph.D. level), UC Irvine
+- Microeconomic Theory III: Auctions and Mechanism Design (Ph.D. level), UC Irvine
+- Intermediate Microeconomics II (Undergraduate), UC Irvine
+- Basic Microeconomics (Undergraduate), UC Irvine
+- Basic Macroeconomics (Undergraduate), UC Irvine
+- Global Economy (Undergraduate), UC Irvine
+- Game Theory and Politics (Undergraduate), UC Irvine
+
+## Resources
+
+- Teaching [material](https://doi.org/10.3886/E150101) for geographic crosswalks.
+- [Resource](https://liberalarts.tulane.edu/departments/economics/academics/undergraduate/internship-career-opportunities) for internship and career opportunities in economics.

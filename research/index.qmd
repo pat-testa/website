@@ -1,0 +1,156 @@
+---
+title: "Research"
+---
+
+## Research statement
+
+[Download](../files/research-statement.pdf).
+
+## Working papers
+
+::: {.entry}
+[]{}"Elections and Political Investment."
+
+[Download: [Draft (with appendices)](../files/elections-political-investment.pdf).]{.links}
+
+[Summary: Beyond selecting officeholders and policies, election results help inform political actors where to invest their time and resources.]{.summary}
+:::
+
+## Publications
+
+::: {.entry}
+"[The Confederate Diaspora](https://www.restud.com/the-confederate-diaspora/)"
+(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
+[Andreas Ferrara](http://andreas-ferrara.com/),
+[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
+[Thomas Pearson](https://sites.google.com/view/thomaspearson)),
+forthcoming at the *Review of Economic Studies*.
+
+[Download: [Draft](../files/confederate-diaspora.pdf), [Supplemental material](../files/confederate-diaspora-supplement.pdf), [Replication files](https://zenodo.org/records/17361408).]{.links}
+
+[Summary: Former Confederate elites moved West after the Civil War, migrating into positions of power and shaping the trajectory of American culture.]{.summary}
+:::
+
+::: {.entry}
+"[State Capacity and Identity: Assimilation vs. Resistance of Tribal Rimlands](https://www.sciencedirect.com/science/article/pii/S0014292126000164)"
+(with [Stergios Skaperdas](https://scholar.google.com/citations?user=IXHHwT0AAAAJ&hl=en)),
+forthcoming in the *European Economic Review* for a Virtual Special Issue on the Legacy of James C. Scott.
+
+[Download: [Draft (with appendices)](../files/state-capacity-identity.pdf).]{.links}
+
+[Summary: The persistence of subnational identities during nation building depends on state capacity as well as tribal resistance strategies.]{.summary}
+:::
+
+::: {.entry}
+"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520),"
+*Quarterly Journal of Economics*, 2026, 141, 733–49
+(with [Jhacova Williams](https://www.american.edu/spa/faculty/jhacovaw.cfm)).
+
+[Download: [Draft](../files/racial-violence.pdf), [Supplemental material](../files/racial-violence-supplement.pdf).]{.links}
+
+[Summary: Racial violence in the post-Reconstruction U.S. South was closely tied to the local political performance of the Democratic Party.]{.summary}
+:::
+
+::: {.entry}
+"[National Identity, Public Goods, and Modern Economic Development](https://www.sciencedirect.com/science/article/pii/S014759672500006X),"
+*Journal of Comparative Economics*, 2025, 53, 412–32
+(with [Stergios Skaperdas](https://scholar.google.com/citations?user=IXHHwT0AAAAJ&hl=en)).
+
+[Download: [Draft (with appendices)](../files/national-identity.pdf).]{.links}
+
+[Summary: National identities promote a consensus between elites and the masses behind taxes and public goods that boost the national economic status, further galvanizing national pride.]{.summary}
+:::
+
+::: {.entry}
+"[New Area- and Population-based Geographic Crosswalks for U.S. Counties and Congressional Districts, 1790-2020](https://www.tandfonline.com/doi/full/10.1080/01615440.2024.2369230),"
+*Historical Methods*, 2024, 57, 67–79
+(with [Andreas Ferrara](http://andreas-ferrara.com/) and
+[Liyang Zhou](https://www.econ.pitt.edu/people/liyang-zhou)).
+
+[Download: [Draft](../files/crosswalks.pdf), [Supplemental material](../files/crosswalks-supplement.pdf), [Crosswalks and replication files](https://doi.org/10.3886/E150101).]{.links}
+
+[Summary: We develop new geographic crosswalks for the U.S. based on relative population size, which account for heterogeneities in urbanization within counties.]{.summary}
+:::
+
+::: {.entry}
+"[The Other Great Migration: Southern Whites and the New Right](https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjad014/7080180),"
+*Quarterly Journal of Economics*, 2023, 138, 1577–1647
+(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
+[Andreas Ferrara](http://andreas-ferrara.com/),
+[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
+[Thomas Pearson](https://sites.google.com/view/thomaspearson)).
+
+[Download: [Draft](../files/other-great-migration.pdf), [Supplemental material](../files/other-great-migration-supplement.pdf), [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KLIPEM).]{.links}
+
+[Summary: Mass migration out of the U.S. South during the early 20th century catalyzed major shifts in national policy coalitions.]{.summary}
+:::
+
+::: {.entry}
+"[Churches as Social Insurance: Oil Risk and Religion in the U.S. South](https://www.cambridge.org/core/journals/journal-of-economic-history/article/churches-as-social-insurance-oil-risk-and-religion-in-the-us-south/8CA18A5677CA71539DD7D604D38C2F75),"
+*Journal of Economic History*, 2023, 83, 786–832
+(with [Andreas Ferrara](http://andreas-ferrara.com/)).
+
+[Download: [Draft](../files/churches-social-insurance.pdf), [Supplemental material](../files/churches-social-insurance-supplement.pdf), [Replication files](https://www.openicpsr.org/openicpsr/project/179761/version/V1/view).]{.links}
+
+[Summary: Religious communities grew throughout the U.S. South in the early 20th century as a form of social insurance against oil volatility.]{.summary}
+:::
+
+::: {.entry}
+"[Sundown Towns and Racial Exclusion: The Southern White Diaspora and the 'Great Retreat'](https://www.aeaweb.org/articles?id=10.1257/pandp.20221104),"
+*American Economic Association: Papers and Proceedings*, 2022, 112, 234–8
+(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
+[Andreas Ferrara](http://andreas-ferrara.com/),
+[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
+[Thomas Pearson](https://sites.google.com/view/thomaspearson)).
+
+[Download: [Draft](../files/sundown-towns.pdf), [Replication files](https://www.openicpsr.org/openicpsr/project/164162/version/V1/view).]{.links}
+
+[Summary: Racially-exclusive "sundown towns" spread throughout the central and western U.S. in the 1900s, leading to a "Great Retreat" of Black Americans.]{.summary}
+:::
+
+::: {.entry}
+"[The Economic Legacy of Expulsion: Lessons from Post-war Czechoslovakia](https://academic.oup.com/ej/article/131/637/2233/6021415),"
+*The Economic Journal*, 2021, 131, 2233–71.
+
+[Download: [Draft](../files/expulsion-czechoslovakia.pdf), [Supplemental material](../files/expulsion-czechoslovakia-supplement.pdf), [Replication files](https://drive.google.com/file/d/1KHnC7Q8zT9l6DbE11zDFqH-KQaBYCSwq/view?usp=sharing).]{.links}
+
+[Summary: Czechoslovakia's expulsion of millions of ethnic Germans after World War II permanently impaired local economic development.]{.summary}
+:::
+
+::: {.entry}
+"[Shocks and the Spatial Distribution of Economic Activity: The Role of Institutions](https://www.sciencedirect.com/science/article/pii/S0167268120303899),"
+*Journal of Economic Behavior & Organization*, 2021, 183, 791–810.
+
+[Download: [Draft](../files/shocks-spatial-distribution.pdf), [Supplemental material](../files/shocks-spatial-distribution-supplement.pdf), [Replication files](https://drive.google.com/file/d/1snNFKSm1MzzyTRO2YMJqrWMeOgNAWx5b/view?usp=sharing).]{.links}
+
+[Summary: When it comes to whether or not historical shocks have persistent effects, the quality of institutions matters for migratory responses.]{.summary}
+:::
+
+::: {.entry}
+"[Education and Propaganda: Tradeoffs to Public Education Provision in Nondemocracies](https://www.sciencedirect.com/science/article/abs/pii/S0047272718300410),"
+*Journal of Public Economics*, 2018, 160, 66–81.
+
+[Download: [Draft](../files/education-propaganda.pdf), [Supplemental material](../files/education-propaganda-supplement.pdf), [Replication files](https://drive.google.com/open?id=12o8UA2O3An2Lnfe5Mxy8abX6jx9evfVb).]{.links}
+
+[Summary: The use of propaganda in educational content can induce nondemocracies to invest more in education, ultimately making citizens better off.]{.summary}
+:::
+
+## Selected work in progress
+
+::: {.entry}
+"The Geography of Demographic Composition in the United States"
+(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
+[Eric Chyn](https://www.ericchyn.com/),
+[Andreas Ferrara](http://andreas-ferrara.com/),
+[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
+[Thomas Pearson](https://sites.google.com/view/thomaspearson)),
+funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2446921)
+and the [Russell Sage Foundation](https://www.russellsage.org/research/grants/geography-race-and-ethnicity-united-states-uncovering-hidden-history-expulsion-and).
+:::
+
+::: {.entry}
+"The Economic Effects of the 1878 Yellow Fever Epidemic"
+(with [Grace Alster](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort-2023/alster-grace.html),
+[Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), and
+[Joshua Graff Zivin](https://www.joshgraffzivin.com/)).
+:::

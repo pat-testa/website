@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+    - images/
+
+website:
+  title: "Patrick A. Testa"
+  description: "Associate Professor of Economics, Tulane University"
+  site-url: https://patrickatesta.com
+  favicon: images/headshot-web.jpg
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about-me/index.qmd
+        text: About Me
+      - href: research/index.qmd
+        text: Research
+      - href: data/index.qmd
+        text: Resources
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: contact/index.qmd
+        text: Contact
+    right:
+      - href: https://scholar.google.com/citations?user=wKc3iesAAAAJ
+        text: Google Scholar
+        target: _blank
+      - href: files/cv.pdf
+        text: CV
+        target: _blank
+  page-footer:
+    center: "© 2026 Patrick A. Testa. Headshot © 2025 Karla Photography."
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
