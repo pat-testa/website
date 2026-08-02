@@ -62,13 +62,43 @@ until it is ready).
 
 Only then cancel the Wix plan.
 
-## Domain registration
+## Domain registration and transfer
 
-Repointing DNS (above) does **not** require transferring the domain away from
-Wix. Transfer is only necessary to stop paying Wix entirely.
+`patrickatesta.com` is bundled with the Wix Premium plan, so it must be
+transferred out before that plan lapses or it can be forfeited.
 
-Before cancelling, check whether the domain was bought separately or came
-bundled free with the Premium plan. If bundled, transfer it out *first* —
-cancelling may forfeit it. Transfers require unlocking the domain and getting
-an EPP/auth code from Wix, and ICANN blocks transfers for 60 days after a
-registration or a previous transfer.
+Registration facts (RDAP, checked 2026-08-02):
+
+| | |
+|---|---|
+| Registrar of record | Network Solutions, LLC (Wix resells through them) |
+| Registered | 2017-10-14 |
+| **Expires** | **2026-10-14** |
+| Status | `clientTransferProhibited` (locked) |
+| Nameservers | `NS0.WIXDNS.NET`, `NS1.WIXDNS.NET` |
+
+**Deadline: initiate the transfer by mid-September 2026.** Transfers take
+about 5–7 days and registrars refuse them close to expiry. An ICANN gTLD
+transfer includes a mandatory 1-year renewal, so ~$10–15 to the new registrar
+pushes the expiry to October 2027 — you are not paying twice for the same year.
+
+Transferring does **not** disturb the live site: the nameservers stay on
+`WIXDNS` throughout, so Wix keeps serving until DNS is repointed deliberately.
+
+### Order of operations
+
+1. **Unlock at Wix** and request the EPP/auth code (lifts
+   `clientTransferProhibited`). Disable WHOIS privacy if it blocks the code.
+2. **Initiate the transfer** at the new registrar using that code. Wait for it
+   to complete. Site unaffected throughout.
+3. **Repoint DNS** at the new registrar per the section above. This is the
+   moment the site cuts over from Wix to GitHub Pages.
+4. **Verify** using the checklist above.
+5. **Turn off Wix auto-renew** so the plan is not billed again on 2026-10-14.
+
+Recommended registrar: **Cloudflare Registrar** — sells at cost (~$10/yr for
+.com) with no upsells and free DNS. Requires a free Cloudflare account and the
+domain to be over 60 days old (it is). Keep GitHub Pages records
+**DNS-only / unproxied** (grey cloud) so Pages manages its own certificate.
+Porkbun and Namecheap are fine alternatives if you would rather not add a
+Cloudflare account.
