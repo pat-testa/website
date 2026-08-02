@@ -4,6 +4,7 @@ project:
   resources:
     - files/
     - images/
+    - CNAME
 
 website:
   title: "Patrick A. Testa"
