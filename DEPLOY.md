@@ -24,17 +24,29 @@ In the Wix domain DNS panel, for `patrickatesta.com`:
 185.199.111.153
 ```
 
+**Four AAAA records** on `@`, for IPv6:
+
+```
+2606:50c0:8000::153
+2606:50c0:8001::153
+2606:50c0:8002::153
+2606:50c0:8003::153
+```
+
 **One CNAME record** for `www`:
 
 ```
 pat-testa.github.io
 ```
 
+Note the CNAME target is the bare `github.io` host — it does **not** include
+the repository name.
+
 Delete any existing A or CNAME records for `@` and `www` that point at Wix,
 otherwise they conflict.
 
-> Verify the four IPs against GitHub's current documentation before entering
-> them: <https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site>
+> These values were checked against GitHub's documentation on 2026-08-02:
+> <https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site>
 
 ### 2. Re-enable the CNAME file in this repo
 
@@ -96,9 +108,14 @@ Transferring does **not** disturb the live site: the nameservers stay on
 4. **Verify** using the checklist above.
 5. **Turn off Wix auto-renew** so the plan is not billed again on 2026-10-14.
 
-Recommended registrar: **Cloudflare Registrar** — sells at cost (~$10/yr for
-.com) with no upsells and free DNS. Requires a free Cloudflare account and the
-domain to be over 60 days old (it is). Keep GitHub Pages records
-**DNS-only / unproxied** (grey cloud) so Pages manages its own certificate.
-Porkbun and Namecheap are fine alternatives if you would rather not add a
-Cloudflare account.
+Chosen registrar: **Porkbun** (Namecheap equivalent). Deliberately not
+Cloudflare Registrar — Cloudflare requires nameservers to move to them before
+it will accept a registration transfer, which forces the DNS cutover to happen
+first. Porkbun keeps the two steps independent: registration moves while
+nameservers stay on Wix, so the live site is untouched until step 3.
+
+During the transfer, do **not** change nameservers and do **not** cancel the
+Wix plan. Either can cause the transfer to fail.
+
+The auth/EPP code is a credential — it goes into the registrar's transfer form
+and nowhere else.
