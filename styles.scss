@@ -66,8 +66,8 @@ a:hover {
 
 .home-header .home-photo,
 .home-header figure {
-  width: 240px;
-  flex: 0 0 240px;
+  width: 430px;
+  flex: 0 0 430px;
   margin: 0;
 }
 
@@ -77,7 +77,7 @@ a:hover {
 }
 
 .home-body {
-  flex: 1 1 340px;
+  flex: 1 1 380px;
   min-width: 0;
 }
 
@@ -130,8 +130,24 @@ a:hover {
   margin-top: 3rem;
 }
 
+/* Below the two-column breakpoint the photo would otherwise stretch to a
+   full-width 400px block; cap it so it stays portrait-sized on phones. */
+@media (max-width: 860px) {
+  .home-header {
+    gap: 1.25rem;
+  }
+
+  .home-header .home-photo,
+  .home-header figure {
+    width: 260px;
+    flex: 0 0 260px;
+  }
+}
+
 @media (max-width: 600px) {
-  .home-header img {
-    width: 160px;
+  .home-header .home-photo,
+  .home-header figure {
+    width: 200px;
+    flex: 0 0 200px;
   }
 }
