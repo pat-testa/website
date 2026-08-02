@@ -1,0 +1,63 @@
+<script>
+// Abstract / BibTeX toggles on the research page.
+// Each .entry has a row of .pill buttons and a sibling .panels container;
+// a button reveals the panel named by its aria-controls.
+(function () {
+  function flash(btn, msg, ok) {
+    btn.textContent = msg;
+    btn.classList.toggle("copied", !!ok);
+    setTimeout(function () {
+      btn.textContent = "Copy";
+      btn.classList.remove("copied");
+    }, 1400);
+  }
+
+  // Fallback for when the async clipboard API is unavailable or rejects
+  // (it requires a focused document, and older Safari lacks it entirely).
+  function legacyCopy(text) {
+    var ta = document.createElement("textarea");
+    ta.value = text;
+    ta.setAttribute("readonly", "");
+    ta.style.position = "fixed";
+    ta.style.top = "-1000px";
+    document.body.appendChild(ta);
+    ta.select();
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch (err) { ok = false; }
+    document.body.removeChild(ta);
+    return ok;
+  }
+
+  document.addEventListener("click", function (e) {
+    var pill = e.target.closest(".pill[aria-controls]");
+    if (pill) {
+      var panel = document.getElementById(pill.getAttribute("aria-controls"));
+      if (!panel) return;
+      var opening = panel.hidden;
+      var entry = pill.closest(".entry");
+      entry.querySelectorAll(".panel").forEach(function (p) { p.hidden = true; });
+      entry.querySelectorAll(".pill[aria-controls]").forEach(function (b) {
+        b.setAttribute("aria-expanded", "false");
+      });
+      panel.hidden = !opening;
+      pill.setAttribute("aria-expanded", opening ? "true" : "false");
+      return;
+    }
+
+    var copy = e.target.closest(".copy-bib");
+    if (!copy) return;
+    var code = copy.parentElement.querySelector("code");
+    if (!code) return;
+    var text = code.innerText;
+
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(
+        function () { flash(copy, "Copied", true); },
+        function () { flash(copy, legacyCopy(text) ? "Copied" : "Press ⌘C", true); }
+      );
+    } else {
+      flash(copy, legacyCopy(text) ? "Copied" : "Press ⌘C", true);
+    }
+  });
+})();
+</script>

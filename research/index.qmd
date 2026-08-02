@@ -9,148 +9,237 @@ title: "Research"
 ## Working papers
 
 ::: {.entry}
-[]{}"Elections and Political Investment."
+"Elections and Political Investment."
 
 [Download: [Draft (with appendices)](../files/elections-political-investment.pdf).]{.links}
 
 [Summary: Beyond selecting officeholders and policies, election results help inform political actors where to invest their time and resources.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-elections-political-investment">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-elections-political-investment">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-elections-political-investment" hidden>Elections select officeholders and policies, but they also signal to political actors where to invest their time and money. This paper presents a framework for understanding these effects, in which political investors (e.g., donors, activists) allocate resources where expected political fundamentals favor their party. Investors possess idiosyncratic local knowledge but also public information in the form of recent election results. These signals are complementary: where local knowledge is good, even the narrowest vote-share majorities can align beliefs and concentrate investment. I apply this framework to the changing political geography of the United States between 1940 and 1972, when urban and minority areas came into play for the Democratic Party. A regression discontinuity design based on close presidential elections shows that counties narrowly won by Democrats saw pronounced increases in Democratic local officeholding and voter support in subsequent election periods. This does not reflect direct impacts of presidential elections on local offices, but rather indirect shifts through political investment, including heightened activity in newspaper advertising, phone banking, and civil rights mobilization. Effects are concentrated in urban, Black, and union areas where dense organizational networks enhanced local political knowledge. Together, the findings show how elections organize political actors not only at the ballot box but through the information they convey.</div><div class="panel" id="bib-elections-political-investment" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@unpublished{testa2026elections,
+  author  = {Testa, Patrick A.},
+  title   = {Elections and Political Investment},
+  year    = {2026},
+  note    = {Working paper}
+}</code></pre></div></div>
 :::
 
 ## Publications
 
 ::: {.entry}
-"[The Confederate Diaspora](https://www.restud.com/the-confederate-diaspora/)"
-(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
-[Andreas Ferrara](http://andreas-ferrara.com/),
-[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
-[Thomas Pearson](https://sites.google.com/view/thomaspearson)),
-forthcoming at the *Review of Economic Studies*.
+"[The Confederate Diaspora](https://www.restud.com/the-confederate-diaspora/)" (with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), [Andreas Ferrara](http://andreas-ferrara.com/), [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and [Thomas Pearson](https://sites.google.com/view/thomaspearson)), forthcoming at the *Review of Economic Studies*.
 
 [Download: [Draft](../files/confederate-diaspora.pdf), [Supplemental material](../files/confederate-diaspora-supplement.pdf), [Replication files](https://zenodo.org/records/17361408).]{.links}
 
 [Summary: Former Confederate elites moved West after the Civil War, migrating into positions of power and shaping the trajectory of American culture.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-confederate-diaspora">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-confederate-diaspora">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-confederate-diaspora" hidden>This paper develops a new framework for understanding when and how migrants shape culture, applying it to the Confederate diaspora—a small migrant group that left a large cultural imprint. Southern Whites that migrated after the Civil War played a pivotal role in spreading Confederate symbols and racial norms across the U.S. by the early 20th century. Their far-reaching influence stemmed from two key conditions: (i) an ideological intensity rooted in their experiences of slavery, secession, and military defeat and (ii) access to malleable power structures during westward expansion and post-war reconciliation. These conditions enabled them to transmit Confederate culture to both kin and non-Southern neighbours and to expand their reach by mobilising civil society organisation and leveraging positions of authority. They shaped policies and institutions that helped entrench racial norms and inequalities in labour markets, housing, and the criminal justice system. Our findings provide empirical foundations for understanding how migrants can transform local culture, rather than merely assimilate.</div><div class="panel" id="bib-confederate-diaspora" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{bazzi2026confederate,
+  author  = {Bazzi, Samuel and Ferrara, Andreas and Fiszbein, Martin and Pearson, Thomas and Testa, Patrick A.},
+  title   = {The Confederate Diaspora},
+  journal = {Review of Economic Studies},
+  year    = {2026},
+  doi     = {10.1093/restud/rdag027},
+  note    = {Forthcoming}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[State Capacity and Identity: Assimilation vs. Resistance of Tribal Rimlands](https://www.sciencedirect.com/science/article/pii/S0014292126000164)"
-(with [Stergios Skaperdas](https://scholar.google.com/citations?user=IXHHwT0AAAAJ&hl=en)),
-forthcoming in the *European Economic Review* for a Virtual Special Issue on the Legacy of James C. Scott.
+"[State Capacity and Identity: Assimilation vs. Resistance of Tribal Rimlands](https://www.sciencedirect.com/science/article/pii/S0014292126000164)," *European Economic Review*, 2026, 184, 105272 (with [Stergios Skaperdas](https://scholar.google.com/citations?user=IXHHwT0AAAAJ&hl=en)). Part of a Virtual Special Issue on the Legacy of James C. Scott.
 
 [Download: [Draft (with appendices)](../files/state-capacity-identity.pdf).]{.links}
 
 [Summary: The persistence of subnational identities during nation building depends on state capacity as well as tribal resistance strategies.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-state-capacity-identity">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-state-capacity-identity">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-state-capacity-identity" hidden>While the populations of wealthy modern states primarily identify with their nation, middle- and low-income countries often contain large populations that adhere to distinct subnational identities. We model a central government elite that has a conflictual relationship with its &quot;tribal rimland.&quot; Elites share a dominant national identity, while members of tribes may hold alternative identities, with identities conferring psychological payoffs. Elite investment in state capacity increases material production, strengthens incentives for members of tribes to adopt the national identity, and facilitates extraction from those who continue to adhere to their own identity. Tribes, meanwhile, are better able to resist when their strategies of resistance, collective organization, and identity status remain strong. Increased democratic representation does not necessarily favor the persistence of tribal identity relative to elite rule. The model is consistent with accounts of incorporation and resistance from both history and the present, ranging from the Scottish and Southeast Asian highlands to past and present indigenous societies in the Americas.</div><div class="panel" id="bib-state-capacity-identity" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{skaperdas2026state,
+  author  = {Skaperdas, Stergios and Testa, Patrick A.},
+  title   = {State Capacity and Identity: Assimilation vs. Resistance of Tribal Rimlands},
+  journal = {European Economic Review},
+  year    = {2026},
+  volume  = {184},
+  pages   = {105272},
+  doi     = {10.1016/j.euroecorev.2026.105272}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520),"
-*Quarterly Journal of Economics*, 2026, 141, 733–49
-(with [Jhacova Williams](https://www.american.edu/spa/faculty/jhacovaw.cfm)).
+"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520)," *Quarterly Journal of Economics*, 2026, 141, 733–49 (with [Jhacova Williams](https://www.american.edu/spa/faculty/jhacovaw.cfm)).
 
 [Download: [Draft](../files/racial-violence.pdf), [Supplemental material](../files/racial-violence-supplement.pdf).]{.links}
 
 [Summary: Racial violence in the post-Reconstruction U.S. South was closely tied to the local political performance of the Democratic Party.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-racial-violence">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-racial-violence">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-racial-violence" hidden>Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This article shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. Despite no corresponding changes in local officeholding, these defeats were salient among local elites. We show that Southern newspapers, closely aligned with the Democratic Party, amplified narratives of Black criminality in the aftermath of Democratic losses. Such accusations were, in turn, frequently invoked by lynch mobs. These findings point to the strategic use of racial violence by Democratic elites, foreshadowing the institutionalized vote suppression of Jim Crow.</div><div class="panel" id="bib-racial-violence" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{testa2026political,
+  author  = {Testa, Patrick A. and Williams, Jhacova},
+  title   = {Political Foundations of Racial Violence in the Post-Reconstruction South},
+  journal = {Quarterly Journal of Economics},
+  year    = {2026},
+  volume  = {141},
+  pages   = {733--749},
+  doi     = {10.1093/qje/qjaf045}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[National Identity, Public Goods, and Modern Economic Development](https://www.sciencedirect.com/science/article/pii/S014759672500006X),"
-*Journal of Comparative Economics*, 2025, 53, 412–32
-(with [Stergios Skaperdas](https://scholar.google.com/citations?user=IXHHwT0AAAAJ&hl=en)).
+"[National Identity, Public Goods, and Modern Economic Development](https://www.sciencedirect.com/science/article/pii/S014759672500006X)," *Journal of Comparative Economics*, 2025, 53, 412–32 (with [Stergios Skaperdas](https://scholar.google.com/citations?user=IXHHwT0AAAAJ&hl=en)).
 
 [Download: [Draft (with appendices)](../files/national-identity.pdf).]{.links}
 
 [Summary: National identities promote a consensus between elites and the masses behind taxes and public goods that boost the national economic status, further galvanizing national pride.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-national-identity">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-national-identity">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-national-identity" hidden>Since the Industrial Revolution, large-scale economic development has coincided with the rise of the modern nation-state. We argue that this is not a coincidence. We show how the advent of national identity helped modern states overcome internal conflicts over the distribution of economic benefits to provide public goods and grow. Using a model with elites and commoners, characterized initially by distinct group identities (e.g., ethnicity, class), we show that elites have an incentive to induce commoners to identify with the nation. The more widespread is national identification, the less is conflict between elites and commoners, and the more revenues can be collected and public goods broadly provided. This effect is self-reinforcing: the greater is public goods provision, the greater is the economic status of the nation and thus the psychological return on national identification. Elites&#x27; incentives to induce national identification, however, depend on the presence of political restraints on the elite. We reexamine the historical cases of England (1600–1920) and the United States (1865–present), identifying support for our framework therein.</div><div class="panel" id="bib-national-identity" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{skaperdas2025national,
+  author  = {Skaperdas, Stergios and Testa, Patrick A.},
+  title   = {National Identity, Public Goods, and Modern Economic Development},
+  journal = {Journal of Comparative Economics},
+  year    = {2025},
+  volume  = {53},
+  pages   = {412--432},
+  doi     = {10.1016/j.jce.2025.01.006}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[New Area- and Population-based Geographic Crosswalks for U.S. Counties and Congressional Districts, 1790-2020](https://www.tandfonline.com/doi/full/10.1080/01615440.2024.2369230),"
-*Historical Methods*, 2024, 57, 67–79
-(with [Andreas Ferrara](http://andreas-ferrara.com/) and
-[Liyang Zhou](https://www.econ.pitt.edu/people/liyang-zhou)).
+"[New Area- and Population-based Geographic Crosswalks for U.S. Counties and Congressional Districts, 1790-2020](https://www.tandfonline.com/doi/full/10.1080/01615440.2024.2369230)," *Historical Methods*, 2024, 57, 67–79 (with [Andreas Ferrara](http://andreas-ferrara.com/) and [Liyang Zhou](https://www.econ.pitt.edu/people/liyang-zhou)).
 
 [Download: [Draft](../files/crosswalks.pdf), [Supplemental material](../files/crosswalks-supplement.pdf), [Crosswalks and replication files](https://doi.org/10.3886/E150101).]{.links}
 
 [Summary: We develop new geographic crosswalks for the U.S. based on relative population size, which account for heterogeneities in urbanization within counties.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-crosswalks">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-crosswalks">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-crosswalks" hidden>In applied historical research, geographic units often differ in level of aggregation across datasets. One solution is to use crosswalks that associate factors located within one geographic unit to another, based on their relative areas. We develop an alternative approach based on relative populations, which accounts for heterogeneities in urbanization within counties. We construct population-based crosswalks for 1790 through 2020, which map county-level data across U.S. censuses, as well as from counties to congressional districts. Using official census data for congressional districts, we show that population-based weights outperform area-based ones in terms of similarity to official data.</div><div class="panel" id="bib-crosswalks" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{ferrara2024new,
+  author  = {Ferrara, Andreas and Testa, Patrick A. and Zhou, Liyang},
+  title   = {New Area- and Population-based Geographic Crosswalks for {U.S.} Counties and Congressional Districts, 1790--2020},
+  journal = {Historical Methods},
+  year    = {2024},
+  volume  = {57},
+  pages   = {67--79},
+  doi     = {10.1080/01615440.2024.2369230}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[The Other Great Migration: Southern Whites and the New Right](https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjad014/7080180),"
-*Quarterly Journal of Economics*, 2023, 138, 1577–1647
-(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
-[Andreas Ferrara](http://andreas-ferrara.com/),
-[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
-[Thomas Pearson](https://sites.google.com/view/thomaspearson)).
+"[The Other Great Migration: Southern Whites and the New Right](https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjad014/7080180)," *Quarterly Journal of Economics*, 2023, 138, 1577–1647 (with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), [Andreas Ferrara](http://andreas-ferrara.com/), [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and [Thomas Pearson](https://sites.google.com/view/thomaspearson)).
 
 [Download: [Draft](../files/other-great-migration.pdf), [Supplemental material](../files/other-great-migration-supplement.pdf), [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KLIPEM).]{.links}
 
 [Summary: Mass migration out of the U.S. South during the early 20th century catalyzed major shifts in national policy coalitions.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-other-great-migration">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-other-great-migration">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-other-great-migration" hidden>This article shows how the migration of millions of Southern whites in the twentieth century shaped the cultural and political landscape across the United States. Racially and religiously conservative, Southern white migrants created new electoral possibilities for a broad-based coalition with economic conservatives. With their considerable geographic scope, these migrants hastened partisan realignment and helped catalyze and bolster a New Right movement with national influence over the long run. More than just augmenting the conservative voter base outside the South, they influenced non-Southerners by building evangelical churches, diffusing right-wing media, and mixing through intermarriage and residential integration. Tracking non-Southern households, we show that exposure to Southern white neighbors increased adoption of conservative religious norms. Overall, our findings suggest that this mass migration blurred the North–South cultural divide and reshaped the geography of conservatism in the United States.</div><div class="panel" id="bib-other-great-migration" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{bazzi2023other,
+  author  = {Bazzi, Samuel and Ferrara, Andreas and Fiszbein, Martin and Pearson, Thomas and Testa, Patrick A.},
+  title   = {The Other Great Migration: Southern Whites and the New Right},
+  journal = {Quarterly Journal of Economics},
+  year    = {2023},
+  volume  = {138},
+  pages   = {1577--1647},
+  doi     = {10.1093/qje/qjad014}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[Churches as Social Insurance: Oil Risk and Religion in the U.S. South](https://www.cambridge.org/core/journals/journal-of-economic-history/article/churches-as-social-insurance-oil-risk-and-religion-in-the-us-south/8CA18A5677CA71539DD7D604D38C2F75),"
-*Journal of Economic History*, 2023, 83, 786–832
-(with [Andreas Ferrara](http://andreas-ferrara.com/)).
+"[Churches as Social Insurance: Oil Risk and Religion in the U.S. South](https://www.cambridge.org/core/journals/journal-of-economic-history/article/churches-as-social-insurance-oil-risk-and-religion-in-the-us-south/8CA18A5677CA71539DD7D604D38C2F75)," *Journal of Economic History*, 2023, 83, 786–832 (with [Andreas Ferrara](http://andreas-ferrara.com/)).
 
 [Download: [Draft](../files/churches-social-insurance.pdf), [Supplemental material](../files/churches-social-insurance-supplement.pdf), [Replication files](https://www.openicpsr.org/openicpsr/project/179761/version/V1/view).]{.links}
 
 [Summary: Religious communities grew throughout the U.S. South in the early 20th century as a form of social insurance against oil volatility.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-churches-social-insurance">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-churches-social-insurance">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-churches-social-insurance" hidden>Religious communities are important providers of social insurance. We show that risk associated with oil dependence facilitated the proliferation of religious communities throughout the U.S. South during the twentieth century. Known oil abundance predicts higher rates of church membership, which are not driven by selective migration or local economic development. Consistent with a social insurance channel, greater oil price volatility increases effects, while greater access to credit, state-level social insurance, and private insurance crowd out effects. Religious communities limit spillovers of oil price shocks across sectors, reducing increases in unemployment following a negative shock by about 30 percent.</div><div class="panel" id="bib-churches-social-insurance" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{ferrara2023churches,
+  author  = {Ferrara, Andreas and Testa, Patrick A.},
+  title   = {Churches as Social Insurance: Oil Risk and Religion in the {U.S.} South},
+  journal = {Journal of Economic History},
+  year    = {2023},
+  volume  = {83},
+  pages   = {786--832},
+  doi     = {10.1017/S0022050723000268}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[Sundown Towns and Racial Exclusion: The Southern White Diaspora and the 'Great Retreat'](https://www.aeaweb.org/articles?id=10.1257/pandp.20221104),"
-*American Economic Association: Papers and Proceedings*, 2022, 112, 234–8
-(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
-[Andreas Ferrara](http://andreas-ferrara.com/),
-[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
-[Thomas Pearson](https://sites.google.com/view/thomaspearson)).
+"[Sundown Towns and Racial Exclusion: The Southern White Diaspora and the 'Great Retreat'](https://www.aeaweb.org/articles?id=10.1257/pandp.20221104)," *American Economic Association: Papers and Proceedings*, 2022, 112, 234–8 (with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), [Andreas Ferrara](http://andreas-ferrara.com/), [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and [Thomas Pearson](https://sites.google.com/view/thomaspearson)).
 
 [Download: [Draft](../files/sundown-towns.pdf), [Replication files](https://www.openicpsr.org/openicpsr/project/164162/version/V1/view).]{.links}
 
 [Summary: Racially-exclusive "sundown towns" spread throughout the central and western U.S. in the 1900s, leading to a "Great Retreat" of Black Americans.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="bib-sundown-towns">BibTeX</button></div>
+<div class="panels"><div class="panel" id="bib-sundown-towns" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{bazzi2022sundown,
+  author  = {Bazzi, Samuel and Ferrara, Andreas and Fiszbein, Martin and Pearson, Thomas and Testa, Patrick A.},
+  title   = {Sundown Towns and Racial Exclusion: The Southern White Diaspora and the ``Great Retreat&#x27;&#x27;},
+  journal = {AEA Papers and Proceedings},
+  year    = {2022},
+  volume  = {112},
+  pages   = {234--238},
+  doi     = {10.1257/pandp.20221104}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[The Economic Legacy of Expulsion: Lessons from Post-war Czechoslovakia](https://academic.oup.com/ej/article/131/637/2233/6021415),"
-*The Economic Journal*, 2021, 131, 2233–71.
+"[The Economic Legacy of Expulsion: Lessons from Post-war Czechoslovakia](https://academic.oup.com/ej/article/131/637/2233/6021415)," *The Economic Journal*, 2021, 131, 2233–71.
 
 [Download: [Draft](../files/expulsion-czechoslovakia.pdf), [Supplemental material](../files/expulsion-czechoslovakia-supplement.pdf), [Replication files](https://drive.google.com/file/d/1KHnC7Q8zT9l6DbE11zDFqH-KQaBYCSwq/view?usp=sharing).]{.links}
 
 [Summary: Czechoslovakia's expulsion of millions of ethnic Germans after World War II permanently impaired local economic development.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-expulsion-czechoslovakia">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-expulsion-czechoslovakia">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-expulsion-czechoslovakia" hidden>This article examines the long-run effects of forced migration on economic development in the origin economy, using Czechoslovakia&#x27;s expulsion of three million Germans after WWII. For identification, I use the discontinuity in ethnic composition at the border of the Sudetenland region where Germans lived. Germans had similar characteristics to Czechs, bypassing factors driving effects in other cases of forced migration, such as differences in human capital. The expulsion produced persistent disparities in population density, sector composition and educational attainment. I trace effects to selective initial resettlements and capital extraction following the expulsion, culminating in urban decay and human capital decline.</div><div class="panel" id="bib-expulsion-czechoslovakia" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{testa2021economic,
+  author  = {Testa, Patrick A.},
+  title   = {The Economic Legacy of Expulsion: Lessons from Post-war Czechoslovakia},
+  journal = {The Economic Journal},
+  year    = {2021},
+  volume  = {131},
+  pages   = {2233--2271},
+  doi     = {10.1093/ej/ueaa132}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[Shocks and the Spatial Distribution of Economic Activity: The Role of Institutions](https://www.sciencedirect.com/science/article/pii/S0167268120303899),"
-*Journal of Economic Behavior & Organization*, 2021, 183, 791–810.
+"[Shocks and the Spatial Distribution of Economic Activity: The Role of Institutions](https://www.sciencedirect.com/science/article/pii/S0167268120303899)," *Journal of Economic Behavior & Organization*, 2021, 183, 791–810.
 
 [Download: [Draft](../files/shocks-spatial-distribution.pdf), [Supplemental material](../files/shocks-spatial-distribution-supplement.pdf), [Replication files](https://drive.google.com/file/d/1snNFKSm1MzzyTRO2YMJqrWMeOgNAWx5b/view?usp=sharing).]{.links}
 
 [Summary: When it comes to whether or not historical shocks have persistent effects, the quality of institutions matters for migratory responses.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-shocks-spatial-distribution">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-shocks-spatial-distribution">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-shocks-spatial-distribution" hidden>Why do some historical shocks permanently impact local development, while others do not? This paper examines how institutions influence local recovery to population shocks, using a model with multiple regions and increasing returns to economic activity within regions. Extractive institutions crowd out productive activity, making its spatial coordination more difficult in the aftermath of large, negative shocks. Hence, when one region experiences such a shock, extractive institutions can hinder recovery, ensuring a redistribution of productive activity away from that region over the long-run. Using a dataset of major earthquakes and 1860 world cities from 1973 to 2018, I find sustained negative effects of earthquakes on city population growth, with effects being driven by cities located outside of stable democracies, consistent with the theory.</div><div class="panel" id="bib-shocks-spatial-distribution" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{testa2021shocks,
+  author  = {Testa, Patrick A.},
+  title   = {Shocks and the Spatial Distribution of Economic Activity: The Role of Institutions},
+  journal = {Journal of Economic Behavior \&amp; Organization},
+  year    = {2021},
+  volume  = {183},
+  pages   = {791--810},
+  doi     = {10.1016/j.jebo.2020.10.021}
+}</code></pre></div></div>
 :::
 
 ::: {.entry}
-"[Education and Propaganda: Tradeoffs to Public Education Provision in Nondemocracies](https://www.sciencedirect.com/science/article/abs/pii/S0047272718300410),"
-*Journal of Public Economics*, 2018, 160, 66–81.
+"[Education and Propaganda: Tradeoffs to Public Education Provision in Nondemocracies](https://www.sciencedirect.com/science/article/abs/pii/S0047272718300410)," *Journal of Public Economics*, 2018, 160, 66–81.
 
 [Download: [Draft](../files/education-propaganda.pdf), [Supplemental material](../files/education-propaganda-supplement.pdf), [Replication files](https://drive.google.com/open?id=12o8UA2O3An2Lnfe5Mxy8abX6jx9evfVb).]{.links}
 
 [Summary: The use of propaganda in educational content can induce nondemocracies to invest more in education, ultimately making citizens better off.]{.summary}
+
+<div class="actions"><button class="pill" type="button" aria-expanded="false" aria-controls="abs-education-propaganda">Abstract</button><button class="pill" type="button" aria-expanded="false" aria-controls="bib-education-propaganda">BibTeX</button></div>
+<div class="panels"><div class="panel" id="abs-education-propaganda" hidden>Nondemocratic regimes face a tradeoff when investing in public education. Education promotes human capital acquisition, expanding the tax base. Yet it also enhances political sophistication and participation, at a cost to nondemocratic regimes. To relax this tradeoff, a regime can disseminate propaganda through its education system. I show that even Bayesian citizens can be influenced by propaganda. By deterring political opposition, propaganda can induce nondemocracies to invest in education when they otherwise would not, improving social welfare. When propaganda is too strong, however, it can generate a backlash. Using cross-country and survey data, I find evidence consistent with the predictions.</div><div class="panel" id="bib-education-propaganda" hidden><button class="copy-bib" type="button">Copy</button><pre><code>@article{testa2018education,
+  author  = {Testa, Patrick A.},
+  title   = {Education and Propaganda: Tradeoffs to Public Education Provision in Nondemocracies},
+  journal = {Journal of Public Economics},
+  year    = {2018},
+  volume  = {160},
+  pages   = {66--81},
+  doi     = {10.1016/j.jpubeco.2018.03.001}
+}</code></pre></div></div>
 :::
 
 ## Selected work in progress
 
 ::: {.entry}
-"The Geography of Demographic Composition in the United States"
-(with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/),
-[Eric Chyn](https://www.ericchyn.com/),
-[Andreas Ferrara](http://andreas-ferrara.com/),
-[Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and
-[Thomas Pearson](https://sites.google.com/view/thomaspearson)),
-funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2446921)
-and the [Russell Sage Foundation](https://www.russellsage.org/research/grants/geography-race-and-ethnicity-united-states-uncovering-hidden-history-expulsion-and).
+"The Geography of Demographic Composition in the United States" (with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), [Eric Chyn](https://www.ericchyn.com/), [Andreas Ferrara](http://andreas-ferrara.com/), [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/), and [Thomas Pearson](https://sites.google.com/view/thomaspearson)), funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2446921) and the [Russell Sage Foundation](https://www.russellsage.org/research/grants/geography-race-and-ethnicity-united-states-uncovering-hidden-history-expulsion-and).
 :::
 
 ::: {.entry}
-"The Economic Effects of the 1878 Yellow Fever Epidemic"
-(with [Grace Alster](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort-2023/alster-grace.html),
-[Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), and
-[Joshua Graff Zivin](https://www.joshgraffzivin.com/)).
+"The Economic Effects of the 1878 Yellow Fever Epidemic" (with [Grace Alster](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort-2023/alster-grace.html), [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/), and [Joshua Graff Zivin](https://www.joshgraffzivin.com/)).
 :::
