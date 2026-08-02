@@ -61,12 +61,12 @@ PUBS = [
               doi="10.1016/j.euroecorev.2026.105272")),
 
  dict(slug="racial-violence",
-   cite=f'"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520)," *Quarterly Journal of Economics*, 2026, 141, 733–49 (with {A["williams"]}).',
+   cite=f'"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520)," *Quarterly Journal of Economics*, 2026, 141, 733–94 (with {A["williams"]}).',
    links='Download: [Draft](../files/racial-violence.pdf), [Supplemental material](../files/racial-violence-supplement.pdf).',
    summary='Racial violence in the post-Reconstruction U.S. South was closely tied to the local political performance of the Democratic Party.',
    bibtex=bib("testa2026political","Testa, Patrick A. and Williams, Jhacova",
               "Political Foundations of Racial Violence in the Post-Reconstruction South",
-              "Quarterly Journal of Economics",2026,volume="141",pages="733--749",
+              "Quarterly Journal of Economics",2026,volume="141",pages="733--794",
               doi="10.1093/qje/qjaf045")),
 
  dict(slug="national-identity",

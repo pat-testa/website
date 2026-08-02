@@ -64,7 +64,7 @@ title: "Research"
 :::
 
 ::: {.entry}
-"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520)," *Quarterly Journal of Economics*, 2026, 141, 733–49 (with [Jhacova Williams](https://www.american.edu/spa/faculty/jhacovaw.cfm)).
+"[Political Foundations of Racial Violence in the Post-Reconstruction South](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf045/8248520)," *Quarterly Journal of Economics*, 2026, 141, 733–94 (with [Jhacova Williams](https://www.american.edu/spa/faculty/jhacovaw.cfm)).
 
 [Download: [Draft](../files/racial-violence.pdf), [Supplemental material](../files/racial-violence-supplement.pdf).]{.links}
 
@@ -77,7 +77,7 @@ title: "Research"
   journal = {Quarterly Journal of Economics},
   year    = {2026},
   volume  = {141},
-  pages   = {733--749},
+  pages   = {733--794},
   doi     = {10.1093/qje/qjaf045}
 }</code></pre></div></div>
 :::
