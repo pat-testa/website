@@ -218,8 +218,8 @@ button.pill:hover {
   margin-top: 3rem;
 }
 
-/* Below the two-column breakpoint the photo would otherwise stretch to a
-   full-width 400px block; cap it so it stays portrait-sized on phones. */
+/* Below ~860px the header stacks. Keep the desktop photo size on tablets,
+   where the text column is still wide. */
 @media (max-width: 860px) {
   .home-header {
     gap: 1.25rem;
@@ -227,15 +227,18 @@ button.pill:hover {
 
   .home-header .home-photo,
   .home-header figure {
-    width: 260px;
-    flex: 0 0 260px;
+    width: 430px;
+    max-width: 100%;
+    flex: 0 0 auto;
   }
 }
 
+/* On phones the photo runs the full text width, matching the desktop layout
+   where photo and text columns are the same width. */
 @media (max-width: 600px) {
   .home-header .home-photo,
   .home-header figure {
-    width: 200px;
-    flex: 0 0 200px;
+    width: 100%;
+    flex: 1 1 100%;
   }
 }
