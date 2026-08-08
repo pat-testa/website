@@ -4,9 +4,7 @@ project:
   resources:
     - files/
     - images/
-    # Re-enable when DNS for patrickatesta.com points at GitHub Pages:
-    # rename CNAME.pending back to CNAME and uncomment the line below.
-    # - CNAME
+    - CNAME
 
 website:
   title: "Patrick A. Testa"
