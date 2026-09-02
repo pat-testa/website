@@ -9,7 +9,7 @@ title: "Research"
 ## Working papers
 
 ::: {.entry}
-"The Winner Premium."
+"[The Winner Premium](https://www.nber.org/papers/w34585)."
 
 [Download: [Draft (with appendices)](../files/elections-political-investment.pdf).]{.links}
 
